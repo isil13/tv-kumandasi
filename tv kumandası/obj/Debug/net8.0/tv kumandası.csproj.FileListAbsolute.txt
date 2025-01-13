@@ -1,0 +1,14 @@
+C:\Users\altin\source\repos\tv kumandası\bin\Debug\net8.0\tv kumandası.exe
+C:\Users\altin\source\repos\tv kumandası\bin\Debug\net8.0\tv kumandası.deps.json
+C:\Users\altin\source\repos\tv kumandası\bin\Debug\net8.0\tv kumandası.runtimeconfig.json
+C:\Users\altin\source\repos\tv kumandası\bin\Debug\net8.0\tv kumandası.dll
+C:\Users\altin\source\repos\tv kumandası\bin\Debug\net8.0\tv kumandası.pdb
+C:\Users\altin\source\repos\tv kumandası\obj\Debug\net8.0\tv kumandası.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\altin\source\repos\tv kumandası\obj\Debug\net8.0\tv kumandası.AssemblyInfoInputs.cache
+C:\Users\altin\source\repos\tv kumandası\obj\Debug\net8.0\tv kumandası.AssemblyInfo.cs
+C:\Users\altin\source\repos\tv kumandası\obj\Debug\net8.0\tv kumandası.csproj.CoreCompileInputs.cache
+C:\Users\altin\source\repos\tv kumandası\obj\Debug\net8.0\tv kumandası.dll
+C:\Users\altin\source\repos\tv kumandası\obj\Debug\net8.0\refint\tv kumandası.dll
+C:\Users\altin\source\repos\tv kumandası\obj\Debug\net8.0\tv kumandası.pdb
+C:\Users\altin\source\repos\tv kumandası\obj\Debug\net8.0\tv kumandası.genruntimeconfig.cache
+C:\Users\altin\source\repos\tv kumandası\obj\Debug\net8.0\ref\tv kumandası.dll
